@@ -1,7 +1,7 @@
 {
-  "name": "js-utilities",
+  "name": "linq-js",
   "version": "0.1.0",
-  "description": "JavaScript utility methods ",
+  "description": "JavaScript implementation of method based linq querying",
   "main": "src/index.js",
   "scripts": {
     "compile": "babel src --out-dir lib",
